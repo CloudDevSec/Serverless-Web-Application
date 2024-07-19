@@ -31,4 +31,4 @@ This project develops a serverless web application using AWS Lambda, API Gateway
 
 ## Contact
 
-Sascha Meyer - sascha.meyer.it@gmail.com
+Sascha Meyer 
